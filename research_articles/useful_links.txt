@@ -1,0 +1,9 @@
+https://perso.esiee.fr/~coustyj/EnglishMorphoGraph/
+
+www.esiee.fr/~coustyj/EnglishMorphoGraph/L9.pdf
+
+www.esiee.fr/~coustyj/EnglishMorphoGraph/L10.pdf
+
+Handling and computing hierarchies with graphs - ESIEE Paris
+https://perso.esiee.fr/~kiranr/ICIP2014TutPartIV-Cousty.pdf
+

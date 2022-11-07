@@ -1,0 +1,24 @@
+
+# =========[GENERAL]===========
+# Media files
+*.png
+*.jpg
+*.csv
+
+# =========[DIRECTORIES]======
+*.Data/
+
+# =========[PYTHON]===========
+# Serialized files (pickle module)
+*.pkl
+
+# PyCharm
+*.pyc
+/__pycache__/*
+
+# Notebooks
+*.ipynb
+*.idea/
+
+# ==========[JE SAIS PAS]=====
+.cache/*
